@@ -1,6 +1,6 @@
 ---
 
-warning: if you are viewing this in bare repository links won't work please go the the <a href="https://smartarch.github.io/benchmark-results/" https://smartarch.github.io/benchmark-results/ </a>
+warning: if you are viewing this in bare repository links won't work please go the the https://smartarch.github.io/benchmark-results/
 
 permalink: /
 ---
