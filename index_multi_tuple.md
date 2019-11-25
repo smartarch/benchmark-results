@@ -21,6 +21,7 @@ permalink: /index_multi_tuple/
 * [A-SMATRIX](../multi_tuple_combination_A-SMATRIX/) 
 * [A-SORTD](../multi_tuple_combination_A-SORTD/) 
 * [A-ZB](../multi_tuple_combination_A-ZB/) 
+
 * [AVL-AVL](../multi_tuple_combination_AVL-AVL/) 
 * [AVL-A](../multi_tuple_combination_AVL-A/) 
 * [AVL-CYPHERD](../multi_tuple_combination_AVL-CYPHERD/) 
@@ -38,6 +39,7 @@ permalink: /index_multi_tuple/
 * [AVL-SMATRIX](../multi_tuple_combination_AVL-SMATRIX/) 
 * [AVL-SORTD](../multi_tuple_combination_AVL-SORTD/) 
 * [AVL-ZB](../multi_tuple_combination_AVL-ZB/) 
+
 * [CYPHERD-AVL](../multi_tuple_combination_CYPHERD-AVL/) 
 * [CYPHERD-A](../multi_tuple_combination_CYPHERD-A/) 
 * [CYPHERD-CYPHERD](../multi_tuple_combination_CYPHERD-CYPHERD/) 
@@ -55,6 +57,7 @@ permalink: /index_multi_tuple/
 * [CYPHERD-SMATRIX](../multi_tuple_combination_CYPHERD-SMATRIX/) 
 * [CYPHERD-SORTD](../multi_tuple_combination_CYPHERD-SORTD/) 
 * [CYPHERD-ZB](../multi_tuple_combination_CYPHERD-ZB/) 
+
 * [EGG-AVL](../multi_tuple_combination_EGG-AVL/) 
 * [EGG-A](../multi_tuple_combination_EGG-A/) 
 * [EGG-CYPHERD](../multi_tuple_combination_EGG-CYPHERD/) 
