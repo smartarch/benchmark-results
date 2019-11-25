@@ -1,6 +1,8 @@
 ---
+
+warning: if you are viewing this in bare repository links won't work please go the the <a href="https://smartarch.github.io/benchmark-results/" https://smartarch.github.io/benchmark-results/ </a>
+
 permalink: /
-warning: if you are viewing this in bare repository links won't work please go the the [https://smartarch.github.io/benchmark-results/](https://smartarch.github.io/benchmark-results/) 
 ---
 ## [Results of benchmarks](https://smartarch.github.io/benchmark-results/) 
 
@@ -19,7 +21,14 @@ We measured as well the triples (2 background tasks), quadruples (3 background t
 
 The space for triples and higher level n-tuples is not covered completely but at least 1500 measurements of each category were produced. The following pages contain results for each of the tuple grouped by the measured task: [triple](./whole_triple/),  [quadruple](./whole_quadruple/), [quintuple](./whole_quintuple/).
 
+There are three categories of views for the data:
 
+* whole benchmark
+  * Contains the 
+* multi tuple
+  * 
+* combination
+  * 
 
 
 
