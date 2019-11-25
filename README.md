@@ -48,4 +48,3 @@ There are four different views on the data:
 | FACE | own | Human faces detection in images from the local directory |
 | ZB | own | Zip archive extraction of compressed folder with many small files |
 
-JSS 2019 Benchmark results
