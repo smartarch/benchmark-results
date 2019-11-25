@@ -1,6 +1,5 @@
 ---
-warning if you are viewing this in bare repository links won't work please go the the https://smartarch.github.io/benchmark-results/: warning if you are viewing this in bare repository links won't work please go the the https://smartarch.github.io/benchmark-results/
-
+warning if you are viewing this in bare repository links won't work please go the the https://smartarch.github.io/benchmark-results/: warning if you are viewing this in bare repository links won't work please go the the https://smartarch.github.io/jss-2019-benchmark-results/
 permalink: /
 ---
 ## [Results of benchmarks](https://smartarch.github.io/benchmark-results/) 
