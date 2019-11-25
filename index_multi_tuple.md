@@ -167,8 +167,8 @@ permalink: /index_multi_tuple/
     * [JSOND-SORTD] (../multi_tuple_combination_JSOND-SORTD/)
     * [JSOND-ZB] (../multi_tuple_combination_JSOND-ZB/)
 * K
-    * [K-AVL] (../multi_tuple_combination_K-AVL/)
     * [K-A] (../multi_tuple_combination_K-A/)
+    * [K-AVL] (../multi_tuple_combination_K-AVL/)
     * [K-CYPHERD] (../multi_tuple_combination_K-CYPHERD/)
     * [K-EGG] (../multi_tuple_combination_K-EGG/)
     * [K-FACE] (../multi_tuple_combination_K-FACE/)
@@ -185,8 +185,8 @@ permalink: /index_multi_tuple/
     * [K-SORTD] (../multi_tuple_combination_K-SORTD/)
     * [K-ZB] (../multi_tuple_combination_K-ZB/)
 * O
-    * [O-AVL] (../multi_tuple_combination_O-AVL/)
     * [O-A] (../multi_tuple_combination_O-A/)
+    * [O-AVL] (../multi_tuple_combination_O-AVL/)
     * [O-CYPHERD] (../multi_tuple_combination_O-CYPHERD/)
     * [O-EGG] (../multi_tuple_combination_O-EGG/)
     * [O-FACE] (../multi_tuple_combination_O-FACE/)
@@ -203,8 +203,8 @@ permalink: /index_multi_tuple/
     * [O-SORTD] (../multi_tuple_combination_O-SORTD/)
     * [O-ZB] (../multi_tuple_combination_O-ZB/)
 * PDFD
-    * [PDFD-AVL] (../multi_tuple_combination_PDFD-AVL/)
     * [PDFD-A] (../multi_tuple_combination_PDFD-A/)
+    * [PDFD-AVL] (../multi_tuple_combination_PDFD-AVL/)
     * [PDFD-CYPHERD] (../multi_tuple_combination_PDFD-CYPHERD/)
     * [PDFD-EGG] (../multi_tuple_combination_PDFD-EGG/)
     * [PDFD-FACE] (../multi_tuple_combination_PDFD-FACE/)
@@ -221,8 +221,8 @@ permalink: /index_multi_tuple/
     * [PDFD-SORTD] (../multi_tuple_combination_PDFD-SORTD/)
     * [PDFD-ZB] (../multi_tuple_combination_PDFD-ZB/)
 * RB
-    * [RB-AVL] (../multi_tuple_combination_RB-AVL/)
     * [RB-A] (../multi_tuple_combination_RB-A/)
+    * [RB-AVL] (../multi_tuple_combination_RB-AVL/)
     * [RB-CYPHERD] (../multi_tuple_combination_RB-CYPHERD/)
     * [RB-EGG] (../multi_tuple_combination_RB-EGG/)
     * [RB-FACE] (../multi_tuple_combination_RB-FACE/)
@@ -239,8 +239,8 @@ permalink: /index_multi_tuple/
     * [RB-SORTD] (../multi_tuple_combination_RB-SORTD/)
     * [RB-ZB] (../multi_tuple_combination_RB-ZB/)
 * ROD
-    * [ROD-AVL] (../multi_tuple_combination_ROD-AVL/)
     * [ROD-A] (../multi_tuple_combination_ROD-A/)
+    * [ROD-AVL] (../multi_tuple_combination_ROD-AVL/)
     * [ROD-CYPHERD] (../multi_tuple_combination_ROD-CYPHERD/)
     * [ROD-EGG] (../multi_tuple_combination_ROD-EGG/)
     * [ROD-FACE] (../multi_tuple_combination_ROD-FACE/)
@@ -257,8 +257,8 @@ permalink: /index_multi_tuple/
     * [ROD-SORTD] (../multi_tuple_combination_ROD-SORTD/)
     * [ROD-ZB] (../multi_tuple_combination_ROD-ZB/)
 * SMATRIX
-    * [SMATRIX-AVL] (../multi_tuple_combination_SMATRIX-AVL/)
     * [SMATRIX-A] (../multi_tuple_combination_SMATRIX-A/)
+    * [SMATRIX-AVL] (../multi_tuple_combination_SMATRIX-AVL/)
     * [SMATRIX-CYPHERD] (../multi_tuple_combination_SMATRIX-CYPHERD/)
     * [SMATRIX-EGG] (../multi_tuple_combination_SMATRIX-EGG/)
     * [SMATRIX-FACE] (../multi_tuple_combination_SMATRIX-FACE/)
@@ -275,8 +275,8 @@ permalink: /index_multi_tuple/
     * [SMATRIX-SORTD] (../multi_tuple_combination_SMATRIX-SORTD/)
     * [SMATRIX-ZB] (../multi_tuple_combination_SMATRIX-ZB/)
 * SORTD
-    * [SORTD-AVL] (../multi_tuple_combination_SORTD-AVL/)
     * [SORTD-A] (../multi_tuple_combination_SORTD-A/)
+    * [SORTD-AVL] (../multi_tuple_combination_SORTD-AVL/)
     * [SORTD-CYPHERD] (../multi_tuple_combination_SORTD-CYPHERD/)
     * [SORTD-EGG] (../multi_tuple_combination_SORTD-EGG/)
     * [SORTD-FACE] (../multi_tuple_combination_SORTD-FACE/)
@@ -293,8 +293,8 @@ permalink: /index_multi_tuple/
     * [SORTD-SORTD] (../multi_tuple_combination_SORTD-SORTD/)
     * [SORTD-ZB] (../multi_tuple_combination_SORTD-ZB/)
 * ZB
-    * [ZB-AVL] (../multi_tuple_combination_ZB-AVL/)
     * [ZB-A] (../multi_tuple_combination_ZB-A/)
+    * [ZB-AVL] (../multi_tuple_combination_ZB-AVL/)
     * [ZB-CYPHERD] (../multi_tuple_combination_ZB-CYPHERD/)
     * [ZB-EGG] (../multi_tuple_combination_ZB-EGG/)
     * [ZB-FACE] (../multi_tuple_combination_ZB-FACE/)
