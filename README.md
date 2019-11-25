@@ -1,5 +1,4 @@
 ---
-title: Benchmark results for Edge-Cloud measurements
 warning if you are viewing this in bare repository links won't work please go the the https://smartarch.github.io/benchmark-results/: warning if you are viewing this in bare repository links won't work please go the the https://smartarch.github.io/benchmark-results/
 
 permalink: /
@@ -29,4 +28,25 @@ There are four different views on the data:
 * [Overall view for triples, quadruples and quintuples for a given task](./index_whole)
 * [Detailed view for triples, quadruples and quintuples per task](./index_multi_tuple)
 * [For each n-tuple contains view grouped by measured task](./index_combination)
- 
+
+| Benchmark ID | Source group | Benchmark description |
+|  ---- | ---- | ---- |
+| A | scalabench | Renders a set of images using ray tracing |
+| F | scalabench | In-memory benchmark of transactions in banking application |
+| H | scalabench | Framework to optimize ABC, SWC, and SWF files |
+| K | scalabench | Stanford Topic Modeling Toolbox |
+| O | scalabench | Simulates programs run on a grid of AVR microcontrollers |
+| SMATRIX | stress-ng | Transposition on a 4096x4096 matrix |
+| JSOND | own | Generates and writes JSON data to disk |
+| PDFD | own | Generates images and writes them as PDF file to disk |
+| SORTD | own | Generates, sorts and writes random numbers to disk |
+| CYPHERD | own | Generates random string, cyphers it and writes to disk |
+| AVL | own | Inserts and then removes 1 000 000 items to AVL tree |
+| RB | own | Inserts and then removes 1 000 000 items to Red--Black tree |
+| FLOYD | own | Floyd-Warshall's all pairs shortest path search on 2 200 vertices |
+| ROD | own | Rod cutting problem using dynamic programming |
+| EGG | own | Egg dropping problem using dynamic programming |
+| FACE | own | Human faces detection in images from the local directory |
+| ZB | own | Zip archive extraction of compressed folder with many small files |
+
+JSS 2019 Benchmark results
