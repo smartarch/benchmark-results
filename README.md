@@ -1,7 +1,8 @@
 ---
 permalink: /
+warning: if you are viewing this in bare repository links won't work please go the the [https://smartarch.github.io/benchmark-results/](https://smartarch.github.io/benchmark-results/) 
 ---
-## Results of benchmarks 
+## [Results of benchmarks](https://smartarch.github.io/benchmark-results/) 
 
 This repository is a companion to the paper  "Managing Latency in Edge-Cloud Environment." We used 17 different benchmarks to create tasks that would simulate maximum usage on our platform. This data is then used in the predictor to predict worst-case scenarios (90% confidence level). 
 
