@@ -4,8 +4,8 @@ permalink: /index_whole/
 
 ## Contains the overall view for triples, quadruples and quintuples for a given task
 
-* [AVL](../whole_AVL/) 
 * [A](../whole_A/) 
+* [AVL](../whole_AVL/) 
 * [CYPHERD](../whole_CYPHERD/) 
 * [EGG](../whole_EGG/) 
 * [FACE](../whole_FACE/) 

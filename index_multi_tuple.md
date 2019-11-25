@@ -4,8 +4,8 @@ permalink: /index_multi_tuple/
 
 ## Provides deeper level view for triples, quadruples and quintuples for a given task
 
-* [A-AVL](../multi_tuple_combination_A-AVL/) 
 * [A-A](../multi_tuple_combination_A-A/) 
+* [A-AVL](../multi_tuple_combination_A-AVL/) 
 * [A-CYPHERD](../multi_tuple_combination_A-CYPHERD/) 
 * [A-EGG](../multi_tuple_combination_A-EGG/) 
 * [A-FACE](../multi_tuple_combination_A-FACE/) 
@@ -22,8 +22,8 @@ permalink: /index_multi_tuple/
 * [A-SORTD](../multi_tuple_combination_A-SORTD/) 
 * [A-ZB](../multi_tuple_combination_A-ZB/) 
 
-* [AVL-AVL](../multi_tuple_combination_AVL-AVL/) 
 * [AVL-A](../multi_tuple_combination_AVL-A/) 
+* [AVL-AVL](../multi_tuple_combination_AVL-AVL/) 
 * [AVL-CYPHERD](../multi_tuple_combination_AVL-CYPHERD/) 
 * [AVL-EGG](../multi_tuple_combination_AVL-EGG/) 
 * [AVL-FACE](../multi_tuple_combination_AVL-FACE/) 
@@ -40,8 +40,8 @@ permalink: /index_multi_tuple/
 * [AVL-SORTD](../multi_tuple_combination_AVL-SORTD/) 
 * [AVL-ZB](../multi_tuple_combination_AVL-ZB/) 
 
-* [CYPHERD-AVL](../multi_tuple_combination_CYPHERD-AVL/) 
 * [CYPHERD-A](../multi_tuple_combination_CYPHERD-A/) 
+* [CYPHERD-AVL](../multi_tuple_combination_CYPHERD-AVL/) 
 * [CYPHERD-CYPHERD](../multi_tuple_combination_CYPHERD-CYPHERD/) 
 * [CYPHERD-EGG](../multi_tuple_combination_CYPHERD-EGG/) 
 * [CYPHERD-FACE](../multi_tuple_combination_CYPHERD-FACE/) 
@@ -58,8 +58,8 @@ permalink: /index_multi_tuple/
 * [CYPHERD-SORTD](../multi_tuple_combination_CYPHERD-SORTD/) 
 * [CYPHERD-ZB](../multi_tuple_combination_CYPHERD-ZB/) 
 
-* [EGG-AVL](../multi_tuple_combination_EGG-AVL/) 
 * [EGG-A](../multi_tuple_combination_EGG-A/) 
+* [EGG-AVL](../multi_tuple_combination_EGG-AVL/) 
 * [EGG-CYPHERD](../multi_tuple_combination_EGG-CYPHERD/) 
 * [EGG-EGG](../multi_tuple_combination_EGG-EGG/) 
 * [EGG-FACE](../multi_tuple_combination_EGG-FACE/) 
@@ -75,8 +75,9 @@ permalink: /index_multi_tuple/
 * [EGG-SMATRIX](../multi_tuple_combination_EGG-SMATRIX/) 
 * [EGG-SORTD](../multi_tuple_combination_EGG-SORTD/) 
 * [EGG-ZB](../multi_tuple_combination_EGG-ZB/) 
-* [F-AVL](../multi_tuple_combination_F-AVL/) 
+
 * [F-A](../multi_tuple_combination_F-A/) 
+* [F-AVL](../multi_tuple_combination_F-AVL/) 
 * [F-CYPHERD](../multi_tuple_combination_F-CYPHERD/) 
 * [F-EGG](../multi_tuple_combination_F-EGG/) 
 * [F-FACE](../multi_tuple_combination_F-FACE/) 
@@ -92,8 +93,9 @@ permalink: /index_multi_tuple/
 * [F-SMATRIX](../multi_tuple_combination_F-SMATRIX/) 
 * [F-SORTD](../multi_tuple_combination_F-SORTD/) 
 * [F-ZB](../multi_tuple_combination_F-ZB/) 
-* [FACE-AVL](../multi_tuple_combination_FACE-AVL/) 
+
 * [FACE-A](../multi_tuple_combination_FACE-A/) 
+* [FACE-AVL](../multi_tuple_combination_FACE-AVL/) 
 * [FACE-CYPHERD](../multi_tuple_combination_FACE-CYPHERD/) 
 * [FACE-EGG](../multi_tuple_combination_FACE-EGG/) 
 * [FACE-FACE](../multi_tuple_combination_FACE-FACE/) 
@@ -109,8 +111,9 @@ permalink: /index_multi_tuple/
 * [FACE-SMATRIX](../multi_tuple_combination_FACE-SMATRIX/) 
 * [FACE-SORTD](../multi_tuple_combination_FACE-SORTD/) 
 * [FACE-ZB](../multi_tuple_combination_FACE-ZB/) 
-* [FLOYD-AVL](../multi_tuple_combination_FLOYD-AVL/) 
+
 * [FLOYD-A](../multi_tuple_combination_FLOYD-A/) 
+* [FLOYD-AVL](../multi_tuple_combination_FLOYD-AVL/) 
 * [FLOYD-CYPHERD](../multi_tuple_combination_FLOYD-CYPHERD/) 
 * [FLOYD-EGG](../multi_tuple_combination_FLOYD-EGG/) 
 * [FLOYD-FACE](../multi_tuple_combination_FLOYD-FACE/) 
@@ -126,8 +129,9 @@ permalink: /index_multi_tuple/
 * [FLOYD-SMATRIX](../multi_tuple_combination_FLOYD-SMATRIX/) 
 * [FLOYD-SORTD](../multi_tuple_combination_FLOYD-SORTD/) 
 * [FLOYD-ZB](../multi_tuple_combination_FLOYD-ZB/) 
-* [H-AVL](../multi_tuple_combination_H-AVL/) 
+
 * [H-A](../multi_tuple_combination_H-A/) 
+* [H-AVL](../multi_tuple_combination_H-AVL/) 
 * [H-CYPHERD](../multi_tuple_combination_H-CYPHERD/) 
 * [H-EGG](../multi_tuple_combination_H-EGG/) 
 * [H-FACE](../multi_tuple_combination_H-FACE/) 
@@ -143,8 +147,9 @@ permalink: /index_multi_tuple/
 * [H-SMATRIX](../multi_tuple_combination_H-SMATRIX/) 
 * [H-SORTD](../multi_tuple_combination_H-SORTD/) 
 * [H-ZB](../multi_tuple_combination_H-ZB/) 
-* [JSOND-AVL](../multi_tuple_combination_JSOND-AVL/) 
+
 * [JSOND-A](../multi_tuple_combination_JSOND-A/) 
+* [JSOND-AVL](../multi_tuple_combination_JSOND-AVL/) 
 * [JSOND-CYPHERD](../multi_tuple_combination_JSOND-CYPHERD/) 
 * [JSOND-EGG](../multi_tuple_combination_JSOND-EGG/) 
 * [JSOND-FACE](../multi_tuple_combination_JSOND-FACE/) 
