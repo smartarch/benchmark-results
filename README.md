@@ -23,14 +23,9 @@ The space for triples and higher-level n-tuples is not covered entirely, but at 
 
 There are three categories of views for the data:
 
-- [whole benchmark](./index_whole)
-
-- - Contains the overall view for triples, quadruples and quintuples for a given task
-
-- [multi tuple](./index_multi_tuple)
-
-- - Provides deeper level view for triples, quadruples and quintuples for a given task
-
-- [combination](./index_combination)
-
-- - For each n-tuple contains view grouped by measured task
+* [whole benchmark](./index_whole)
+  * Contains the overall view for triples, quadruples and quintuples for a given task
+* [multi tuple](./index_multi_tuple)
+  * Provides deeper level view for triples, quadruples and quintuples for a given task
+* [combination](./index_combination)
+  * For each n-tuple contains view grouped by measured task
