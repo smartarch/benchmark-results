@@ -161,7 +161,6 @@ permalink: /index_multi_tuple/
     * [JSOND-O](../multi_tuple_combination_JSOND-O/) 
     * [JSOND-PDFD](../multi_tuple_combination_JSOND-PDFD/) 
     * [JSOND-RB](../multi_tuple_combination_JSOND-RB/) 
-    * [JSOND-ROD](../multi_tuple_combination_JSOND-ROD/) 
     * [JSOND-ROD] (../multi_tuple_combination_JSOND-ROD/)
     * [JSOND-SMATRIX] (../multi_tuple_combination_JSOND-SMATRIX/)
     * [JSOND-SORTD] (../multi_tuple_combination_JSOND-SORTD/)
