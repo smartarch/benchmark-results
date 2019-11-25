@@ -19,13 +19,15 @@ Since this category might be already too large to be viewed in one figure the re
 
 We measured as well the triples (2 background tasks), quadruples (3 background tasks) and quintuples (4 background tasks). The measurements in quintuples are already outside of the operation boundary as defined in the paper, since the number of running task over exceeds the number of available processor cores.
 
-The space for triples and higher-level n-tuples is not covered entirely, but at least 1500 measurements of each category were produced. The following pages contain results for each of the tuples grouped by the measured task: [triple](./whole_triple/), [quadruple](./whole_quadruple/), [quintuple](./whole_quintuple/).
+The space for triples and higher-level n-tuples is not covered entirely, but at least 1500 measurements of each category were produced. The following pages contain results for each of the tuples grouped by the measured task: .
 
-There are three categories of views for the data:
+There are four different views on the data:
 
-* [whole benchmark](./index_whole)
-  * Contains the overall view for triples, quadruples and quintuples for a given task
-* [multi tuple](./index_multi_tuple)
-  * Provides deeper level view for triples, quadruples and quintuples for a given task
-* [combination](./index_combination)
-  * For each n-tuple contains view grouped by measured task
+* Grouped by tasks concurenty executed
+    * [triple](./whole_triple/)
+    * [quadruple](./whole_quadruple/)
+    * [quintuple](./whole_quintuple/)
+* [Overall view for triples, quadruples and quintuples for a given task](./index_whole)
+* [Detailed view for triples, quadruples and quintuples for per task](./index_multi_tuple)
+* [For each n-tuple contains view grouped by measured task](./index_combination)
+ 
