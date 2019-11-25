@@ -1,5 +1,5 @@
 ---
-
+title: Benchmark results for Edge-Cloud measurements
 warning if you are viewing this in bare repository links won't work please go the the https://smartarch.github.io/benchmark-results/: warning if you are viewing this in bare repository links won't work please go the the https://smartarch.github.io/benchmark-results/
 
 permalink: /
@@ -22,12 +22,11 @@ We measured as well the triples (2 background tasks), quadruples (3 background t
 The space for triples and higher-level n-tuples is not covered entirely, but at least 1500 measurements of each category were produced. The following pages contain results for each of the tuples grouped by the measured task: .
 
 There are four different views on the data:
-
 * Grouped by tasks concurenty executed
     * [triple](./whole_triple/)
     * [quadruple](./whole_quadruple/)
     * [quintuple](./whole_quintuple/)
 * [Overall view for triples, quadruples and quintuples for a given task](./index_whole)
-* [Detailed view for triples, quadruples and quintuples for per task](./index_multi_tuple)
+* [Detailed view for triples, quadruples and quintuples per task](./index_multi_tuple)
 * [For each n-tuple contains view grouped by measured task](./index_combination)
  
