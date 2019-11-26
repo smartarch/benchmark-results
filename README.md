@@ -4,7 +4,7 @@ permalink: /
 ---
 ## Introduction 
 
-This repository is a companion to the paper  "Managing Latency in Edge-Cloud Environment." We used 17 different benchmarks to create tasks that would simulate maximum usage on our platform. This data is then used in the predictor to predict worst-case scenarios (90% confidence level). 
+This repository is a companion to the paper  "Managing Latency in Edge-Cloud Environment." We used 17 different benchmarks to create tasks that would simulate maximum usage on our platform. This data is then used in the predictor to predict worst-case scenarios (90th percentile). 
 
 All experiments were carried out on a 64-bit quad-core  [Intel Xeon E3-1230v6 @ 3.50GHz](https://ark.intel.com/content/www/us/en/ark/products/97474/intel-xeon-processor-e3-1230-v6-8m-cache-3-50-ghz.html) system running Fedora Linux 28 5. Hyper-threading, turbo-boost and other power management features were disabled to obtain stable timing
 results.
@@ -39,10 +39,10 @@ The page [doubles](./single_and_doubles) contains all pairs of a task and one ba
 
 We also measured the triples (2 background tasks), quadruples (3 background tasks) and quintuples (4 background tasks). The measurements in quintuples are already outside of the operation boundary as defined in the paper, since the number of running task over exceeds the number of available processor cores.
 
-The product space of triples and higher-level n-tuples is not covered entirely, but at least 1500 measurements of each category were produced. The following pages contain results for each of the tuples grouped by the measured task: .
+The product space of triples and higher-level n-tuples is not covered entirely, but at least 1500 measurements of each category were produced. The following pages contain results for each of the tuples grouped by the measured task. 
 
 There are four different views on the data:
-* Grouped by tasks concurenty executed
+* Grouped by tasks concurrently executed
     * [triple](./whole_triple/)
     * [quadruple](./whole_quadruple/)
     * [quintuple](./whole_quintuple/)
